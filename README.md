@@ -19,8 +19,9 @@ To install necessary dependencies use the following command:
 npm i
 ```
 ## Usage 
-Screenshot/Video
-Deployed Site:...
+Screenshot/Video...
+![TeamGenerator(Screenshot)](https://user-images.githubusercontent.com/89208706/149646626-f328e4a4-be87-4a95-b700-8945dd02796a.png)
+
 
 ## License This project is licensed under MIT
 
