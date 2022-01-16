@@ -20,6 +20,8 @@ npm i
 ```
 ## Usage 
 Screenshot/Video...
+[Demo Video](https://drive.google.com/file/d/1ZkTcq7pyl25_QFfO70458azRF6p1WOY4/view?usp=sharing)
+
 ![TeamGenerator(Screenshot)](https://user-images.githubusercontent.com/89208706/149646626-f328e4a4-be87-4a95-b700-8945dd02796a.png)
 
 
